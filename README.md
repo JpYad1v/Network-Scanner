@@ -13,4 +13,3 @@ Usage: python net_scanner.py -r "IP"
 
 # Example
 python net_scanner.py -r 192.168.0.1/24
--r: To specify the IP or IP Range.
